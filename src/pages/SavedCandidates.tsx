@@ -1,5 +1,4 @@
 import { useState, useEffect } from 'react';
-import { Link } from 'react-router-dom';
 import { FaMinusCircle } from 'react-icons/fa';
 
 interface GitHubUser {

@@ -1,5 +1,5 @@
-import { useState, useEffect } from 'react';
-import { searchGithub, searchGithubUser } from '../api/API';
+import { useState } from 'react';
+import { searchGithubUser } from '../api/API';
 import { FaMinusCircle, FaPlusCircle } from 'react-icons/fa';
 
 interface GitHubUser {

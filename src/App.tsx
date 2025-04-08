@@ -5,9 +5,9 @@ import SavedCandidates from './pages/SavedCandidates';
 import CandidateSearch from './pages/CandidateSearch';
 
 function App() {
-  const [searchTerm, setSearchTerm] = useState('');
-  const [users, setUsers] = useState([]);
-  const [error, setError] = useState(null);
+  const [, setSearchTerm] = useState('');
+  const [, setUsers] = useState([]);
+  const [, setError] = useState(null);
 
   return (
     <div className="pt-[15px] bg-blue-500">
