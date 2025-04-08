@@ -15,10 +15,11 @@ const router = createBrowserRouter([
     children: [
       {
         index: true,
+        path: '/',
         element: <CandidateSearch />,
       },
       {
-        path: '/SavedCandidates',
+        path: 'SavedCandidates',
         element: <SavedCandidates />,
       },
     ],
