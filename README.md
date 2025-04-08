@@ -2,6 +2,9 @@
 
 A React-based application for searching and managing potential job candidates from GitHub. Built with React, TypeScript, and Tailwind CSS.
 
+## Live Demo
+Visit the live application: [Candidate Search](https://candidatesearch-jj9g.onrender.com)
+
 ## Features
 
 - **GitHub User Search**: Search for potential candidates using GitHub's API
