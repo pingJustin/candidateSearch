@@ -3,7 +3,7 @@
 A React-based application for searching and managing potential job candidates from GitHub. Built with React, TypeScript, and Tailwind CSS.
 
 ## Live Demo
-Visit the live application: [Candidate Search](https://candidatesearch-jj9g.onrender.com)
+Visit the live application: [Candidate Search]([https://candidatesearch-jj9g.onrender.com]
 
 ## Features
 
@@ -41,7 +41,7 @@ npm run dev
 - View detailed profile information
 - Click "Save" to add to your candidate list
 
-### Manage Saved Candidates
+### Manage Saved Candidate
 - View all saved candidates in a sortable grid
 - Click column headers to sort by different fields
 - Filter candidates by name or location
