@@ -41,7 +41,7 @@ npm run dev
 - View detailed profile information
 - Click "Save" to add to your candidate list
 
-### Manage Saved Candidates
+### Manage Saved Candidate
 - View all saved candidates in a sortable grid
 - Click column headers to sort by different fields
 - Filter candidates by name or location
